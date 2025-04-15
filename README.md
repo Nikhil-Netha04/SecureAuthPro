@@ -37,7 +37,7 @@ npm install
 5. Run the development server
 ```bash
 # In server directory
-npm run dev
+npm run server
 
 # In client directory
 npm run dev
